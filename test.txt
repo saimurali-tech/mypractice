@@ -1,1 +1,7 @@
-this is my test file
+hello
+hi
+bye
+how are u
+bye bye
+take 
+care
